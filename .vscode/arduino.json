@@ -1,0 +1,7 @@
+{
+    "board": "esp32:esp32:esp32wrover",
+    "sketch": "device.ino",
+    "configuration": "PartitionScheme=huge_app,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=none",
+    "output": "./.build",
+    "port": "COM3"
+}
